@@ -1,0 +1,60 @@
+body{
+    color:rgba(61, 59, 51, 0.884);
+}
+#side{
+    background-color:rgba(61, 59, 51, 0.178);
+    width: 75%;
+    margin-left: 14%;  
+    border-radius: 20px;
+    padding-bottom: 60px;       
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 5%;
+    margin-bottom: 0;
+    font-size: 40px;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 0; 
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+#picture1{
+    padding-top: 1%;
+    padding-left: 1%;
+    width: 40%;
+    margin: 0 auto;
+    background-color:white;
+    height: 100%;
+}
+img{
+    max-width: 98%;
+    max-height: 100%;
+}
+#poem{
+    font-size: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+p{
+    font-size: 30px;
+    margin-left: 20%;
+    margin-top: 6%;
+}
+ul{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+a{
+    text-decoration:none;
+}       
+a:link{
+    color:rgba(61, 59, 51, 0.596);
+}
+a:hover{
+    text-decoration:underline;
+}
